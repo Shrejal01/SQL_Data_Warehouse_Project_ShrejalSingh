@@ -18,9 +18,9 @@ Modern Data Warehouse for Sales Analytics
 
 ## Analytics & Reporting Focus:
 - SQL-based analysis has been built to explore:
-- 🧑‍💼 **Customer Behavior** - segmentation, repeat purchases, activity.
-- 📦 **Product Performance** - sales by product, top-sellers, and trends.
-- 📈 **Sales Trends** - monthly/quarterly growth, regional breakdowns, etc.
+- **Customer Behavior** - segmentation, repeat purchases, activity.
+- **Product Performance** - sales by product, top-sellers, and trends.
+- **Sales Trends** - monthly/quarterly growth, regional breakdowns, etc.
 
 ## Data Quality & Integration:
 - Before loading data into the reporting layer, the following transformations are applied:
