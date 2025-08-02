@@ -68,16 +68,12 @@ Documentation: Markdown, Entity Relationship Diagrams (ERD)
 
 Documentation
 Comprehensive documentation is included:
-
 Data dictionary and ERD
-
 Transformation logic
 
 Stakeholder Value:
 Business Analysts- Self-service access to cleansed, unified data.
 Executives- Reliable KPIs for strategic decisions.
 Data Scientists- Ready-to-use datasets for advanced modeling.
-
 Sample queries for analytics
-
 Business definitions of key metrics
