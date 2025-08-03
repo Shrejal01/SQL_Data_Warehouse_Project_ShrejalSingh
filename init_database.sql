@@ -7,8 +7,6 @@ Warning:
   Running this script will drop the entire Data_Warehouse database if it exists. Proceed with this script if you want to delete the database permanently. Be cautious and ensure there are proper backups before running this script. 
 */
 
-
-
 USE master;
 GO
 
