@@ -1,0 +1,27 @@
+﻿Project Epics,Tasks,check
+Design Data Architecture (https://www.notion.so/Design-Data-Architecture-2422bfc324d98033b438cb237a7fae28?pvs=21),Choose Data Management Approach,Yes
+Design Data Architecture (https://www.notion.so/Design-Data-Architecture-2422bfc324d98033b438cb237a7fae28?pvs=21),Brainstorm and design the layer,Yes
+Design Data Architecture (https://www.notion.so/Design-Data-Architecture-2422bfc324d98033b438cb237a7fae28?pvs=21),Draw the Data Architecture (Draw.io),Yes
+Project Initialization (https://www.notion.so/Project-Initialization-2422bfc324d980b9a1e7d789ab2139f0?pvs=21),Create Detailed Project Tasks (Notion),Yes
+Project Initialization (https://www.notion.so/Project-Initialization-2422bfc324d980b9a1e7d789ab2139f0?pvs=21),Define Project Naming Conventions,Yes
+Project Initialization (https://www.notion.so/Project-Initialization-2422bfc324d980b9a1e7d789ab2139f0?pvs=21),Create Git Repo to create the structure,Yes
+Project Initialization (https://www.notion.so/Project-Initialization-2422bfc324d980b9a1e7d789ab2139f0?pvs=21),Create DB and Schemas,Yes
+Requirement Analysis (https://www.notion.so/Requirement-Analysis-2422bfc324d98015819dca4de7d4a8c8?pvs=21),Analyze & Understand the Requirements,Yes
+Bronze Layer (https://www.notion.so/Bronze-Layer-2432bfc324d9808d9ce8e2ae83b603e6?pvs=21),"Analysing: Source Systems ",Yes
+Bronze Layer (https://www.notion.so/Bronze-Layer-2432bfc324d9808d9ce8e2ae83b603e6?pvs=21),Coding: Data Ingestion,Yes
+Bronze Layer (https://www.notion.so/Bronze-Layer-2432bfc324d9808d9ce8e2ae83b603e6?pvs=21),Validating: Data Completeness & Schema Checks,Yes
+Bronze Layer (https://www.notion.so/Bronze-Layer-2432bfc324d9808d9ce8e2ae83b603e6?pvs=21),Document: Draw Data Flow (Draw.io),Yes
+Bronze Layer (https://www.notion.so/Bronze-Layer-2432bfc324d9808d9ce8e2ae83b603e6?pvs=21),Commit Code in Git Repo,Yes
+Silver Layer (https://www.notion.so/Silver-Layer-2432bfc324d980918377fda7d7151d88?pvs=21),Analysing: Explore & Understand Data,Yes
+Silver Layer (https://www.notion.so/Silver-Layer-2432bfc324d980918377fda7d7151d88?pvs=21),Document: Draw Data Integration,Yes
+Silver Layer (https://www.notion.so/Silver-Layer-2432bfc324d980918377fda7d7151d88?pvs=21),Coding: Data Cleansing,Yes
+Silver Layer (https://www.notion.so/Silver-Layer-2432bfc324d980918377fda7d7151d88?pvs=21),Validating: Data Correctness Checks,Yes
+Silver Layer (https://www.notion.so/Silver-Layer-2432bfc324d980918377fda7d7151d88?pvs=21),"Document & Versioning in GIT ",Yes
+Silver Layer (https://www.notion.so/Silver-Layer-2432bfc324d980918377fda7d7151d88?pvs=21),"Commit Code in Git Repo ",Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),Analysing: Explore Business Objects,Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),Coding: Data Integration,Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),"Validating: Data Integration Checks ",Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),Document: Draw Data Model of Star Schema (Draw.io),Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),Document: Create Data Catalog,Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),Document: Extend Data Flow (Draw.io),Yes
+Gold Layer (https://www.notion.so/Gold-Layer-2432bfc324d98071b30fc3e590267af4?pvs=21),Commit code to Git Repo,Yes
