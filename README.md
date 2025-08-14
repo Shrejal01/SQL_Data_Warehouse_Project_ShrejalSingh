@@ -50,7 +50,6 @@ The Gold Layer is designed for analytical queries with star-schema design patter
 ## Dimension Tables:
 - dim_customers
 - dim_products
-- dim_date
 
 ## Fact Tables:
 - fact_sales
